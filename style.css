@@ -1,0 +1,98 @@
+/* Write some CSS below */
+
+.banner {
+  background-image: url('C:/Sublime Text/Proyecto/landing-page-master/Imagenes/banermadera.jpg');
+  background-size: cover;
+  background-position: unset;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.fondo {
+background-image: url('C:/Sublime Text/Proyecto/landing-page-master/Imagenes/cuerpo6.jpg');
+background-size: cover;
+}
+
+
+  h1, h2, h4 {
+    font-family: IM Fell Double Pica SC;
+    color: white;
+  }
+
+h1 {
+  font-size: 112px
+}
+
+h3 {
+  font-family: IM Fell Double Pica SC;
+  color: white;
+}
+
+.btn-black {
+  background-color: black;
+  color: grey;
+  padding: 10px 10px;
+  border-radius: 2px;
+  display: inline-block;
+  text-decoration: none;
+  transition: .3s;
+  font-size: 15px;
+}
+
+.descripcion {
+  width: 900px;
+  margin: 60px auto;
+}
+
+.descripcion {
+  text-align: center;
+}
+
+
+
+body {
+    font-family: Overpass;
+    color: #404042;
+    font-size: 18px;
+    margin: 0;
+}
+
+
+.cards-wrap {
+width: 800px;
+margin: 60px auto;
+margin-bottom: 75px;
+}
+
+
+.class-container{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+.card{
+background: black;
+box-shadow: 0 0 16px;
+border-radius: 4px;
+padding: 24px;
+margin: 0px 20px;
+}
+
+.card img{
+width: 200px;
+height: 200px;
+}
+
+
+footer {
+background-color: black;
+font-family: IM Fell Double Pica SC;
+color: white;
+padding: 0px 50px;
+position: fixed;
+bottom: 0;
+left: 0px;
+right: 0px;
+}
