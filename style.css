@@ -1,7 +1,7 @@
 /* Write some CSS below */
 
 .banner {
-  background-image: url('C:/Sublime Text/Proyecto/landing-page-master/Imagenes/banermadera.jpg');
+  background-image: url(/Imagenes/banermadera.jpg');
   background-size: cover;
   background-position: unset;
   padding: 50px 0;
