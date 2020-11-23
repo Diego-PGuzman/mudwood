@@ -9,7 +9,7 @@
 }
 
 .fondo {
-background-image: url('C:/Sublime Text/Proyecto/landing-page-master/Imagenes/cuerpo6.jpg');
+background-image: url(Imagenes/cuerpo6.jpg);
 background-size: cover;
 }
 
