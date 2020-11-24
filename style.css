@@ -2,7 +2,7 @@
 
 .banner {
   background-image: url(Imagenes/banermadera.jpg);
-  background-size: cover;
+  background-size: 100%;
   background-position: unset;
   padding: 100px 0;
   text-align: center;
